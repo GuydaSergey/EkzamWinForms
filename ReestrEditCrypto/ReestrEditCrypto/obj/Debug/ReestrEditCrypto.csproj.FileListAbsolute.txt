@@ -1,0 +1,29 @@
+c:\users\сергей\documents\visual studio 2013\Projects\ReestrEditCrypto\ReestrEditCrypto\bin\Debug\ReestrEditCrypto.exe.config
+c:\users\сергей\documents\visual studio 2013\Projects\ReestrEditCrypto\ReestrEditCrypto\bin\Debug\ReestrEditCrypto.exe
+c:\users\сергей\documents\visual studio 2013\Projects\ReestrEditCrypto\ReestrEditCrypto\bin\Debug\ReestrEditCrypto.pdb
+c:\users\сергей\documents\visual studio 2013\Projects\ReestrEditCrypto\ReestrEditCrypto\obj\Debug\ReestrEditCrypto.csprojResolveAssemblyReference.cache
+c:\users\сергей\documents\visual studio 2013\Projects\ReestrEditCrypto\ReestrEditCrypto\obj\Debug\ReestrEditCrypto.Form1.resources
+c:\users\сергей\documents\visual studio 2013\Projects\ReestrEditCrypto\ReestrEditCrypto\obj\Debug\ReestrEditCrypto.Properties.Resources.resources
+c:\users\сергей\documents\visual studio 2013\Projects\ReestrEditCrypto\ReestrEditCrypto\obj\Debug\ReestrEditCrypto.csproj.GenerateResource.Cache
+c:\users\сергей\documents\visual studio 2013\Projects\ReestrEditCrypto\ReestrEditCrypto\obj\Debug\ReestrEditCrypto.exe
+c:\users\сергей\documents\visual studio 2013\Projects\ReestrEditCrypto\ReestrEditCrypto\obj\Debug\ReestrEditCrypto.pdb
+H:\Екзамен\ReestrEditCrypto\ReestrEditCrypto\bin\Debug\ReestrEditCrypto.exe.config
+H:\Екзамен\ReestrEditCrypto\ReestrEditCrypto\obj\Debug\ReestrEditCrypto.exe
+H:\Екзамен\ReestrEditCrypto\ReestrEditCrypto\obj\Debug\ReestrEditCrypto.pdb
+H:\Екзамен\ReestrEditCrypto\ReestrEditCrypto\bin\Debug\ReestrEditCrypto.exe
+H:\Екзамен\ReestrEditCrypto\ReestrEditCrypto\bin\Debug\ReestrEditCrypto.pdb
+H:\Екзамен\ReestrEditCrypto\ReestrEditCrypto\obj\Debug\ReestrEditCrypto.Form1.resources
+H:\Екзамен\ReestrEditCrypto\ReestrEditCrypto\obj\Debug\ReestrEditCrypto.Properties.Resources.resources
+H:\Екзамен\ReestrEditCrypto\ReestrEditCrypto\obj\Debug\ReestrEditCrypto.csproj.GenerateResource.Cache
+G:\Екзамен\ReestrEditCrypto\ReestrEditCrypto\bin\Debug\ReestrEditCrypto.exe.config
+G:\Екзамен\ReestrEditCrypto\ReestrEditCrypto\obj\Debug\ReestrEditCrypto.exe
+G:\Екзамен\ReestrEditCrypto\ReestrEditCrypto\obj\Debug\ReestrEditCrypto.pdb
+E:\Екзамен\ReestrEditCrypto\ReestrEditCrypto\bin\Debug\ReestrEditCrypto.exe.config
+E:\Екзамен\ReestrEditCrypto\ReestrEditCrypto\obj\Debug\ReestrEditCrypto.exe
+E:\Екзамен\ReestrEditCrypto\ReestrEditCrypto\obj\Debug\ReestrEditCrypto.pdb
+E:\Екзамен\ReestrEditCrypto\ReestrEditCrypto\bin\Debug\ReestrEditCrypto.exe
+E:\Екзамен\ReestrEditCrypto\ReestrEditCrypto\bin\Debug\ReestrEditCrypto.pdb
+E:\Екзамен\ReestrEditCrypto\ReestrEditCrypto\obj\Debug\ReestrEditCrypto.Form1.resources
+E:\Екзамен\ReestrEditCrypto\ReestrEditCrypto\obj\Debug\ReestrEditCrypto.Properties.Resources.resources
+E:\Екзамен\ReestrEditCrypto\ReestrEditCrypto\obj\Debug\ReestrEditCrypto.csproj.GenerateResource.Cache
+H:\Екзамен\ReestrEditCrypto\ReestrEditCrypto\obj\Debug\ReestrEditCrypto.csprojResolveAssemblyReference.cache

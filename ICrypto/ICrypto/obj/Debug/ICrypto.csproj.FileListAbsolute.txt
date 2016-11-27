@@ -1,0 +1,25 @@
+c:\users\сергей\documents\visual studio 2013\Projects\ICrypto\ICrypto\bin\Debug\ICrypto.dll
+c:\users\сергей\documents\visual studio 2013\Projects\ICrypto\ICrypto\bin\Debug\ICrypto.pdb
+c:\users\сергей\documents\visual studio 2013\Projects\ICrypto\ICrypto\bin\Debug\ICoder.dll
+c:\users\сергей\documents\visual studio 2013\Projects\ICrypto\ICrypto\bin\Debug\ICoder.pdb
+c:\users\сергей\documents\visual studio 2013\Projects\ICrypto\ICrypto\obj\Debug\ICrypto.dll
+c:\users\сергей\documents\visual studio 2013\Projects\ICrypto\ICrypto\obj\Debug\ICrypto.pdb
+H:\Екзамен\ICrypto\ICrypto\obj\Debug\ICrypto.dll
+H:\Екзамен\ICrypto\ICrypto\bin\Debug\ICrypto.dll
+H:\Екзамен\ICrypto\ICrypto\bin\Debug\ICrypto.pdb
+H:\Екзамен\ICrypto\ICrypto\bin\Debug\ICoder.dll
+H:\Екзамен\ICrypto\ICrypto\bin\Debug\ICoder.pdb
+H:\Екзамен\ICrypto\ICrypto\obj\Debug\ICrypto.pdb
+C:\Users\Сергей\Desktop\ICrypto\ICrypto\obj\Debug\ICrypto.dll
+C:\Users\Сергей\Desktop\ICrypto\ICrypto\bin\Debug\ICrypto.dll
+C:\Users\Сергей\Desktop\ICrypto\ICrypto\bin\Debug\ICrypto.pdb
+C:\Users\Сергей\Desktop\ICrypto\ICrypto\obj\Debug\ICrypto.pdb
+C:\Users\Сергей\Desktop\ICrypto\ICrypto\obj\Debug\ICrypto.csprojResolveAssemblyReference.cache
+E:\Екзамен\ICrypto\ICrypto\bin\Debug\ICrypto.dll
+E:\Екзамен\ICrypto\ICrypto\bin\Debug\ICrypto.pdb
+E:\Екзамен\ICrypto\ICrypto\bin\Debug\ICoder.dll
+E:\Екзамен\ICrypto\ICrypto\bin\Debug\ICoder.pdb
+E:\Екзамен\ICrypto\ICrypto\obj\Debug\ICrypto.csprojResolveAssemblyReference.cache
+E:\Екзамен\ICrypto\ICrypto\obj\Debug\ICrypto.dll
+E:\Екзамен\ICrypto\ICrypto\obj\Debug\ICrypto.pdb
+H:\Екзамен\ICrypto\ICrypto\obj\Debug\ICrypto.csprojResolveAssemblyReference.cache

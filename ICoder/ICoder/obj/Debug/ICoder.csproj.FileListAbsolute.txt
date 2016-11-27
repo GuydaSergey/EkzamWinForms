@@ -1,0 +1,12 @@
+c:\users\сергей\documents\visual studio 2013\Projects\ICoder\ICoder\bin\Debug\ICoder.dll
+c:\users\сергей\documents\visual studio 2013\Projects\ICoder\ICoder\bin\Debug\ICoder.pdb
+c:\users\сергей\documents\visual studio 2013\Projects\ICoder\ICoder\obj\Debug\ICoder.dll
+c:\users\сергей\documents\visual studio 2013\Projects\ICoder\ICoder\obj\Debug\ICoder.pdb
+H:\Екзамен\ICoder\ICoder\bin\Debug\ICoder.dll
+H:\Екзамен\ICoder\ICoder\bin\Debug\ICoder.pdb
+H:\Екзамен\ICoder\ICoder\obj\Debug\ICoder.dll
+H:\Екзамен\ICoder\ICoder\obj\Debug\ICoder.pdb
+E:\Екзамен\ICoder\ICoder\obj\Debug\ICoder.dll
+E:\Екзамен\ICoder\ICoder\obj\Debug\ICoder.pdb
+E:\Екзамен\ICoder\ICoder\bin\Debug\ICoder.dll
+E:\Екзамен\ICoder\ICoder\bin\Debug\ICoder.pdb

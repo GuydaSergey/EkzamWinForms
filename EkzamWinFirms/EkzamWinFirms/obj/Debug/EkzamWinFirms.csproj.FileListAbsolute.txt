@@ -1,0 +1,50 @@
+c:\users\сергей\documents\visual studio 2013\Projects\EkzamWinFirms\EkzamWinFirms\bin\Debug\EkzamWinFirms.exe.config
+c:\users\сергей\documents\visual studio 2013\Projects\EkzamWinFirms\EkzamWinFirms\bin\Debug\EkzamWinFirms.exe
+c:\users\сергей\documents\visual studio 2013\Projects\EkzamWinFirms\EkzamWinFirms\bin\Debug\EkzamWinFirms.pdb
+c:\users\сергей\documents\visual studio 2013\Projects\EkzamWinFirms\EkzamWinFirms\obj\Debug\EkzamWinFirms.Form1.resources
+c:\users\сергей\documents\visual studio 2013\Projects\EkzamWinFirms\EkzamWinFirms\obj\Debug\EkzamWinFirms.Properties.Resources.resources
+c:\users\сергей\documents\visual studio 2013\Projects\EkzamWinFirms\EkzamWinFirms\obj\Debug\EkzamWinFirms.csproj.GenerateResource.Cache
+c:\users\сергей\documents\visual studio 2013\Projects\EkzamWinFirms\EkzamWinFirms\obj\Debug\EkzamWinFirms.exe
+c:\users\сергей\documents\visual studio 2013\Projects\EkzamWinFirms\EkzamWinFirms\obj\Debug\EkzamWinFirms.pdb
+c:\users\сергей\documents\visual studio 2013\Projects\EkzamWinFirms\EkzamWinFirms\bin\Debug\ICoder.dll
+c:\users\сергей\documents\visual studio 2013\Projects\EkzamWinFirms\EkzamWinFirms\bin\Debug\ICrypto.dll
+c:\users\сергей\documents\visual studio 2013\Projects\EkzamWinFirms\EkzamWinFirms\bin\Debug\ICoder.pdb
+c:\users\сергей\documents\visual studio 2013\Projects\EkzamWinFirms\EkzamWinFirms\bin\Debug\ICrypto.pdb
+H:\Екзамен\EkzamWinFirms\EkzamWinFirms\bin\Debug\EkzamWinFirms.exe.config
+H:\Екзамен\EkzamWinFirms\EkzamWinFirms\obj\Debug\EkzamWinFirms.exe
+H:\Екзамен\EkzamWinFirms\EkzamWinFirms\obj\Debug\EkzamWinFirms.pdb
+H:\Екзамен\EkzamWinFirms\EkzamWinFirms\bin\Debug\EkzamWinFirms.exe
+H:\Екзамен\EkzamWinFirms\EkzamWinFirms\bin\Debug\EkzamWinFirms.pdb
+H:\Екзамен\EkzamWinFirms\EkzamWinFirms\bin\Debug\ICoder.dll
+H:\Екзамен\EkzamWinFirms\EkzamWinFirms\bin\Debug\ICrypto.dll
+H:\Екзамен\EkzamWinFirms\EkzamWinFirms\bin\Debug\ICoder.pdb
+H:\Екзамен\EkzamWinFirms\EkzamWinFirms\bin\Debug\ICrypto.pdb
+H:\Екзамен\EkzamWinFirms\EkzamWinFirms\obj\Debug\EkzamWinFirms.Form1.resources
+H:\Екзамен\EkzamWinFirms\EkzamWinFirms\obj\Debug\EkzamWinFirms.Properties.Resources.resources
+H:\Екзамен\EkzamWinFirms\EkzamWinFirms\obj\Debug\EkzamWinFirms.csproj.GenerateResource.Cache
+E:\Екзамен\EkzamWinFirms\EkzamWinFirms\bin\Debug\EkzamWinFirms.exe.config
+E:\Екзамен\EkzamWinFirms\EkzamWinFirms\obj\Debug\EkzamWinFirms.exe
+E:\Екзамен\EkzamWinFirms\EkzamWinFirms\obj\Debug\EkzamWinFirms.pdb
+E:\Екзамен\EkzamWinFirms\EkzamWinFirms\bin\Debug\EkzamWinFirms.exe
+E:\Екзамен\EkzamWinFirms\EkzamWinFirms\bin\Debug\EkzamWinFirms.pdb
+E:\Екзамен\EkzamWinFirms\EkzamWinFirms\obj\Debug\EkzamWinFirms.Form1.resources
+E:\Екзамен\EkzamWinFirms\EkzamWinFirms\obj\Debug\EkzamWinFirms.Properties.Resources.resources
+E:\Екзамен\EkzamWinFirms\EkzamWinFirms\obj\Debug\EkzamWinFirms.csproj.GenerateResource.Cache
+E:\Екзамен\EkzamWinFirms\EkzamWinFirms\bin\Debug\ICoder.dll
+E:\Екзамен\EkzamWinFirms\EkzamWinFirms\bin\Debug\ICrypto.dll
+E:\Екзамен\EkzamWinFirms\EkzamWinFirms\bin\Debug\ICoder.pdb
+E:\Екзамен\EkzamWinFirms\EkzamWinFirms\bin\Debug\ICrypto.pdb
+G:\Екзамен\EkzamWinFirms\EkzamWinFirms\bin\Debug\EkzamWinFirms.exe.config
+G:\Екзамен\EkzamWinFirms\EkzamWinFirms\obj\Debug\EkzamWinFirms.exe
+G:\Екзамен\EkzamWinFirms\EkzamWinFirms\obj\Debug\EkzamWinFirms.pdb
+G:\Екзамен\EkzamWinFirms\EkzamWinFirms\bin\Debug\EkzamWinFirms.exe
+G:\Екзамен\EkzamWinFirms\EkzamWinFirms\bin\Debug\EkzamWinFirms.pdb
+G:\Екзамен\EkzamWinFirms\EkzamWinFirms\bin\Debug\ICoder.dll
+G:\Екзамен\EkzamWinFirms\EkzamWinFirms\bin\Debug\ICrypto.dll
+G:\Екзамен\EkzamWinFirms\EkzamWinFirms\bin\Debug\ICoder.pdb
+G:\Екзамен\EkzamWinFirms\EkzamWinFirms\bin\Debug\ICrypto.pdb
+G:\Екзамен\EkzamWinFirms\EkzamWinFirms\obj\Debug\EkzamWinFirms.Form1.resources
+G:\Екзамен\EkzamWinFirms\EkzamWinFirms\obj\Debug\EkzamWinFirms.Properties.Resources.resources
+G:\Екзамен\EkzamWinFirms\EkzamWinFirms\obj\Debug\EkzamWinFirms.csproj.GenerateResource.Cache
+E:\Екзамен\EkzamWinFirms\EkzamWinFirms\obj\Debug\EkzamWinFirms.csprojResolveAssemblyReference.cache
+H:\Екзамен\EkzamWinFirms\EkzamWinFirms\obj\Debug\EkzamWinFirms.csprojResolveAssemblyReference.cache
